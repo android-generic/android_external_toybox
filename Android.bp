@@ -372,6 +372,7 @@ toybox_symlinks = [
     "realpath",
     "renice",
     "restorecon",
+    "rfkill",
     "rm",
     "rmdir",
     "rmmod",
